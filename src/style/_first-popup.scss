@@ -1,0 +1,14 @@
+.first-popup{
+    padding: 50px 0;
+    &__button{
+        cursor: pointer;
+        text-align: center;
+    }
+    &__link{
+        background-color: #ffe800;
+        padding: 20px 50px;
+        border-radius: 30px;
+        font-size: 16px;
+        color: #000;
+    }
+}
